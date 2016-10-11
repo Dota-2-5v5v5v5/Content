@@ -3,6 +3,6 @@
 	"Language"		"English"
 	"Tokens"
 	{		
-		"addon_game_name"			"YOUR ADDON NAME"
+		"addon_game_name"			"Trials Of Retribution"
 	}
 }
