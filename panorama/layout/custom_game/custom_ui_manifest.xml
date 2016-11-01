@@ -34,7 +34,7 @@
         GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_3] = "#40ff00;";
 		GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_4] = "#ff0080;";
     
-  GameUI.CustomUIConfig().player_colors = {}
+	GameUI.CustomUIConfig().player_colors = {}
 	GameUI.CustomUIConfig().player_colors[0] = "#4080D0;";
 	GameUI.CustomUIConfig().player_colors[1] = "#58E0A0;";
 	GameUI.CustomUIConfig().player_colors[2] = "#A000A0;";
