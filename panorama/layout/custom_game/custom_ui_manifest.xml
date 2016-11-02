@@ -27,34 +27,34 @@
 
     // These lines set up the panorama colors used by each team (for game select/setup, etc)
     GameUI.CustomUIConfig().team_colors = {}
-    GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_GOODGUYS] = "#00ff80;";
-    GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_BADGUYS ] = "#ff0080;";
-    GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_1] = "#ff8300";
-		GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_2] = "#2ac3ea;";
-        GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_3] = "#40ff00;";
-		GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_4] = "#ff0080;";
+    GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_GOODGUYS] =    "#00ff80;";   // GOODGUYS
+    GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_BADGUYS ] =      "#ff0080;";   // BADGUYS
+    GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_1] =     "#ff8300";    // Tempest
+		GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_2] = "#006dda;"; // Altiar
+        GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_3] = "#2dff96;";  // Radiant
+		GameUI.CustomUIConfig().team_colors[DOTATeam_t.DOTA_TEAM_CUSTOM_4] = "#ff00ff;";  // Dire
     
 	GameUI.CustomUIConfig().player_colors = {}
-	GameUI.CustomUIConfig().player_colors[0] = "#4080D0;";
-	GameUI.CustomUIConfig().player_colors[1] = "#58E0A0;";
-	GameUI.CustomUIConfig().player_colors[2] = "#A000A0;";
-	GameUI.CustomUIConfig().player_colors[3] = "#D0D008;";
-	GameUI.CustomUIConfig().player_colors[4] = "#E06000;";
-	GameUI.CustomUIConfig().player_colors[5] = "#00FC40;";
-	GameUI.CustomUIConfig().player_colors[6] = "#380074;";
-	GameUI.CustomUIConfig().player_colors[7] = "#FC0080;";
-	GameUI.CustomUIConfig().player_colors[8] = "#F47B00;";
-	GameUI.CustomUIConfig().player_colors[9] = "#787800;";
-	GameUI.CustomUIConfig().player_colors[10] = "#DC74A8;";
-	GameUI.CustomUIConfig().player_colors[11] = "#748030;";
-	GameUI.CustomUIConfig().player_colors[12] = "#58BCD4;";
-	GameUI.CustomUIConfig().player_colors[13] = "#00701C;";
-	GameUI.CustomUIConfig().player_colors[14] = "#885400;";
-	GameUI.CustomUIConfig().player_colors[15] = "#F37AF3;";
-	GameUI.CustomUIConfig().player_colors[16] = "#F00000;";
-	GameUI.CustomUIConfig().player_colors[17] = "#F88000;";
-	GameUI.CustomUIConfig().player_colors[18] = "#E0B818;";
-	GameUI.CustomUIConfig().player_colors[19] = "#A0FF60;";
+	GameUI.CustomUIConfig().player_colors[0] = "#ff8300;";
+	GameUI.CustomUIConfig().player_colors[1] = "#ff8300;";
+	GameUI.CustomUIConfig().player_colors[2] = "#ff8300;";
+	GameUI.CustomUIConfig().player_colors[3] = "#ff8300;";
+	GameUI.CustomUIConfig().player_colors[4] = "#ff8300;";
+	GameUI.CustomUIConfig().player_colors[5] = "#006dda;";
+	GameUI.CustomUIConfig().player_colors[6] = "#006dda;";
+	GameUI.CustomUIConfig().player_colors[7] = "#006dda;";
+	GameUI.CustomUIConfig().player_colors[8] = "#006dda;";
+	GameUI.CustomUIConfig().player_colors[9] = "#006dda;";
+	GameUI.CustomUIConfig().player_colors[10] = "#2dff96;";
+	GameUI.CustomUIConfig().player_colors[11] = "#2dff96;";
+	GameUI.CustomUIConfig().player_colors[12] = "#2dff96;";
+	GameUI.CustomUIConfig().player_colors[13] = "#2dff96;";
+	GameUI.CustomUIConfig().player_colors[14] = "#2dff96;";
+	GameUI.CustomUIConfig().player_colors[15] = "#ff00ff;";
+	GameUI.CustomUIConfig().player_colors[16] = "#ff00ff;";
+	GameUI.CustomUIConfig().player_colors[17] = "#ff00ff;";
+	GameUI.CustomUIConfig().player_colors[18] = "#ff00ff;";
+	GameUI.CustomUIConfig().player_colors[19] = "#ff00ff;";
 
 
   </script> 
